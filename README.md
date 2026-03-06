@@ -29,9 +29,9 @@
 </div>
 
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://raw.githubusercontent.com/sath00/sath00/main/gitlab-calendar.svg">
-</p>
+</p> -->
 
 ## Hi, I'm Sath 👋
 Full-stack developer crafting modern web apps.
