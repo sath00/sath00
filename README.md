@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong> Eat • Code • Sleep </strong> 
+  <strong> Full snack developer that Eat • Code • Sleep </strong> 
 </p>
 
 <div display="flex">
@@ -33,9 +33,18 @@
 <img src="https://raw.githubusercontent.com/sath00/sath00/main/gitlab-calendar.svg">
 </p> -->
 
-## Hi, I'm Sath 👋
-Full-stack developer crafting modern web apps.
+## About Me
+Full-stack developer crafting modern web applications.
+- Building and shipping production features in agile teams
+- Focused on debugging, performance optimization, and maintainable code
+- 2+ years of professional software development experience
 
+## Career Highlights
+_Key Projects:_ [HQZen.com](https://hqzen.com) • [Simp.gifts](https://simp.gifts) • [Simp.bio](https://simp.bio)
+- **Full-Stack Developer** • August 2023 – Present
+- **Template Developer** • January 2025 - Present
+
+### Tech Stack
 <table>
 <tr>
 <td valign="top" width="33%">
@@ -48,7 +57,7 @@ Full-stack developer crafting modern web apps.
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat\&logo=typescript\&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat\&logo=sass\&logoColor=white)
-
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 </td>
 
 <td valign="top" width="33%">
@@ -57,7 +66,6 @@ Full-stack developer crafting modern web apps.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django\&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-red?style=flat)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat\&logo=postgresql\&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat\&logo=redis\&logoColor=white)
@@ -72,21 +80,14 @@ Full-stack developer crafting modern web apps.
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat\&logo=gitlab\&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat\&logo=jest\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
-![NewRelic](https://img.shields.io/badge/NewRelic-008C99?style=flat)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 </td>
 </tr>
 </table>
 
----
+### Side Quests
+Experiments & Side Projects
 
-### Featured Projects
-
-**TapTrack**
-Expense tracking app built with Next.js + Django.
-
-**Simp.bio**
-Creator link hub similar to Linktree.
-
-**Simp.gifts**
-Wishlist gifting platform.
+#### TapTrack [![Repo](https://img.shields.io/badge/Repository-View%20Code-black?style=flat&logo=github)](https://github.com/sath00/taptrack)
+Mobile-first PWA for real-time expense management with spreadsheet export for easier auditing.
