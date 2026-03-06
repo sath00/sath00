@@ -10,7 +10,7 @@
   
 <p align="center">
   <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-SATH.IO-black?style=for-the-badge&logo=vercel">
+    <img src="https://img.shields.io/badge/Portfolio-SATH.DEV-black?style=for-the-badge&logo=vercel">
   </a>
 
   <a href="https://www.linkedin.com/in/samantha-jane-gomez-07596b23a/">
