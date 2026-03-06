@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Generate GitLab calendar
-        uses: sathishvj/gitlab-calendar@v1
+        uses: samantha.gomez/gitlab-calendar@v1
         with:
           gitlab-username: samantha.gomez
 
