@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Portfolio-SATH.IO-black?style=for-the-badge&logo=vercel">
   </a>
 
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/samantha-jane-gomez-07596b23a/">
     <img src="https://img.shields.io/badge/LinkedIn-SAMANTHA--JANE--GOMEZ-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
@@ -36,7 +36,7 @@ Full-stack developer crafting modern web applications.
 - 2+ years of professional software development experience
 
 ## Career Highlights
-_Key Projects:_ [HQZen.com](https://hqzen.com) • [Simp.gifts](https://simp.gifts) • [Simp.bio](https://simp.bio)
+_Key Projects:_ [HQZen.com](https://hqzen.com) • [simp.gifts](https://simp.gifts) • [simp.bio](https://simp.bio)
 - **Full-Stack Developer** • August 2023 – Present
 - **Template Developer** • January 2025 - Present
 
