@@ -14,11 +14,7 @@
   </a>
 
   <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-SAMANTA--JANE--GOMEZ-blue?style=for-the-badge&logo=linkedin">
-  </a>
-
-  <a href="https://gitlab.com/your-username">
-    <img src="https://img.shields.io/badge/GitLab-sath00-orange?style=for-the-badge&logo=gitlab">
+    <img src="https://img.shields.io/badge/LinkedIn-SAMANTHA--JANE--GOMEZ-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
 <p align="center">
@@ -91,3 +87,10 @@ Experiments & Side Projects
 
 #### TapTrack [![Repo](https://img.shields.io/badge/Repository-View%20Code-black?style=flat&logo=github)](https://github.com/sath00/taptrack)
 Mobile-first PWA for real-time expense management with spreadsheet export for easier auditing.
+
+
+## Let's Connect
+- Email: samanthajane.dev@gmail.com
+- LinkedIn: [samantha-jane-gomez](https://www.linkedin.com/in/samantha-jane-gomez-07596b23a/)
+- Github: [sath00](https://github.com/sath00/)
+- Gitlab: [samantha.gomez](https://forge.bposeats.com/samantha.gomez)
