@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong> Full snack developer that Eat • Code • Sleep </strong> 
+  <strong> Full snack developer | Eat • Code • Sleep </strong> 
 </p>
 
 <div display="flex">
