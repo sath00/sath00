@@ -37,6 +37,8 @@ Full-stack developer crafting modern web applications.
 
 ## Career Highlights
 _Key Projects:_ [HQZen.com](https://hqzen.com) • [simp.gifts](https://simp.gifts) • [simp.bio](https://simp.bio)
+
+_Channel Information Technology Inc._
 - **Full-Stack Developer** • August 2023 – Present
 - **Template Developer** • January 2025 - Present
 
